@@ -3,3 +3,4 @@
 -  I’m currently learning C
 -  I'm from China
 -  Email:high20212021@outlook.com
+-  Discord:high20212021#8227
